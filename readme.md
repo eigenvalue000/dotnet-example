@@ -5,4 +5,4 @@ feature/dotnet-example-DEV
 feature/dotnet-example-UAT
 feature/dotnet-example-STAGING
 feature/description
-bugfix/<Ticket-Name>-Description
+bugfix/\<Ticket-Name\>-Description
